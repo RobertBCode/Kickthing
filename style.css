@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #6200ea;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#search {
+    padding: 10px;
+    width: 80%;
+    margin: 20px 0;
+}
+#streams {
+    padding: 20px;
+}
+.stream {
+    background: white;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+}
